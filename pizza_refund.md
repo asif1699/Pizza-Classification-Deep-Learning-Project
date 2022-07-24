@@ -1,0 +1,2 @@
+Building a deep learning model using ANN alogorithm that classifies the good pizza and burt pizza images so that 
+there should not be any fraud by customers complaining the burnt pizza event if the pizza is good
