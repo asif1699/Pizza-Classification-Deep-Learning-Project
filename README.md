@@ -1,2 +1,2 @@
 # Pizza-Classification-Deep-Learning-Project
-Deplyment link: https://35212.gradio.app
+Deployment link: https://35212.gradio.app
